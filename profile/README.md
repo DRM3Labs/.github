@@ -2,5 +2,8 @@
 
 ### We build the DRM3 Network
 
-![Network](../img/plugged.png)
-![Network](../img/bullets.png)
+![Network](./../img/plugged.png)
+![Network](./../img/bullets.png)
+
+![Network](./../../img/plugged.png)
+![Network](./../../img/bullets.png)
