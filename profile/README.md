@@ -3,7 +3,14 @@
 ### We build the DRM3 Network
 
 ![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/img/plugged.png)
-![Bullets](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/img/bullets.png)
+<!-- ![Bullets](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/img/bullets.png) -->
+
+|||
+|:--|:--|
+|NFT-based Hybrid Subnets ✅ |Sovereign & Transferable Accounts ✅|
+|Monetize your user-base ✅|Information Brokerage ✅|
+|Support two-sided marketplaces ✅|Data & API Management ✅|
+|Build and sell value-added services ✅|Ecosystem & DAPP Backend Platform ✅|
 
 ### Ways to stay in touch
 
