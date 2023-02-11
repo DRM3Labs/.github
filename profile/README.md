@@ -1,7 +1,13 @@
 # Welcome to DRM3 Labs
 
-![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/drm3_network_hero.png)
-<!-- ![Bullets](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/img/bullets.png) -->
+
+At DRM3, we are passionate about unlocking the potential of user-generated data by creating an ecosystem that is equitable and beneficial for all. We strive to empower Data Providers and Data Producers to take control of their data and realize its full value. 
+
+Our mission is to enable rapid growth for our partners and to pave the way for the next wave of innovators contributing to the global data economy. We are committed to protecting the sovereignty of data, allowing users to control where their data is shared and ensuring they receive fair compensation for its use. 
+
+Together, we can create a data ecosystem that is equitable and beneficial for all.
+
+![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/network.jpg)
 
 |||
 |:--|:--|
@@ -12,6 +18,14 @@
 |Consumer Channels ✅|USDC payment rails ✅|
 
 <br>
+
+![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/drm3_checklist.jpg)
+
+### Repos
+
+- Branding [here](https://github.com/DRM3Labs/drm3labs-branding).
+- Docs site [stay tuned].
+- SDK [stay tuned].
 
 ### Ways to stay in touch
 
