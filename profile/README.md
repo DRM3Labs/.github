@@ -1,12 +1,10 @@
 # Welcome to DRM3 Labs
 
+At DRM3, we are passionate about unlocking the potential of user-generated data by creating an equitable and beneficial ecosystem that is fair to all stakeholders. We strive to empower Data Providers and Data Producers to take control of their data, realize its full value, and receive fair compensation for its use. 
 
-At DRM3, we are passionate about unlocking the potential of user-generated data by creating an ecosystem that is equitable and beneficial for all. We strive to empower Data Providers and Data Producers to take control of their data and realize its full value. 
+Our mission is to enable rapid growth for our partners and to pave the way for the next wave of innovators contributing to the global data economy. We are committed to protecting the sovereignty of data, allowing users to control where their data is shared, and ensuring they receive the fair compensation they deserve. 
 
-Our mission is to enable rapid growth for our partners and to pave the way for the next wave of innovators contributing to the global data economy. We are committed to protecting the sovereignty of data, allowing users to control where their data is shared and ensuring they receive fair compensation for its use. 
-
-Together, we can create a data ecosystem that is equitable and beneficial for all.
-
+Together, we can create a data ecosystem that is equitable, secure, and beneficial for all.
 ![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/network.jpg)
 
 |||
