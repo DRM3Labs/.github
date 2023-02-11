@@ -11,9 +11,7 @@
   <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/network.jpg" style='width:100%;' />
 
 
-## DRM3 Network
-
-## Overview
+## DRM3 Network Overview
 
 ![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/drm3_checklist.jpg)
 
@@ -27,9 +25,9 @@
 
 <br>
 
-## DRM3 Network Actors
+### DRM3 Network Actors
 
-  <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/datapreneur.jpg" style='width:100%;' />
+  <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/datapreneur3.png" style='width:100%;' />
   <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/producer.jpg" style='width:100%;' />
    <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/consumer.jpg" style='width:100%;' />
 
