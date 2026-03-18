@@ -1,46 +1,41 @@
-# Welcome to DRM3 Labs
+# DRM3 Labs
+
+Infrastructure for programmable data and compute.
+
+---
 
 ## About
 
-  At DRM3, we are passionate about unlocking the potential of user-generated data by creating an equitable and beneficial ecosystem that is fair to all stakeholders. We strive to empower Data Providers and Data Producers to take control of their data, realize its full value, and receive market-rate compensation for its use. <br>
+DRM3 builds systems for the next generation of data and AI economies.
 
-  Our mission is to enable rapid growth for Datapreneurs through data commercialization infrastructure, paving the way for the next wave of innovators contributing to the global data economy. We are committed to protecting the sovereignty of data, allowing Data Producers and Providers to control where their data is shared, and ensuring they receive the compensation aligned with the data they are providing to the data economy.  <br>
+We ship tools and infrastructure that give builders direct access to compute, inference, and data — enabling them to compose workflows, route execution, and operate across multiple systems without relying on centralized intermediaries.
 
-  Together, we can create a data ecosystem that is equitable, secure, and beneficial for all.
+Over time, these systems converge into a programmable environment where data, compute, and workflows can be coordinated dynamically and operated as part of a broader economic layer.
 
-  <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/network.jpg" style='width:100%;' />
+---
 
+## Principles
 
-## DRM3 Network Overview
+- Permissionless access
+- Programmable infrastructure
+- Verifiable outputs
+- Builder-first
 
-![Network](https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/drm3_checklist.jpg)
+---
 
-|||
-|:--|:--|
-|✅ Monetize your Apps | ✅ Unlock data silos |
-|✅ Producers own their data | ✅ Sovereign & Transferable Accounts |
-|✅ Producers paid for their data | ✅ Digital Asset Brokerage |
-|✅ Infrastructure for two-sided marketplaces | ✅ Align incentives end-to-end |
-|✅ Consumer Channels | ✅ USDC payment rails |
+## Repositories
 
-<br>
+- https://github.com/DRM3Labs/drm3-releases — binaries and distribution
+- https://github.com/DRM3Labs/homebrew-drm3 — macOS tap
+- https://github.com/DRM3Labs/tenets — foundational definitions
 
-### DRM3 Network Actors
+---
 
-  <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/datapreneur3.png" style='width:100%;' />
-  <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/producer.jpg" style='width:100%;' />
-   <img src="https://raw.githubusercontent.com/DRM3Labs/drm3labs-branding/main/brand/marketing/consumer.jpg" style='width:100%;' />
+## Links
 
+- https://drm3.network
+- https://twitter.com/drm3labs
 
-## Repos
+---
 
-- Branding [here](https://github.com/DRM3Labs/drm3labs-branding).
-- Docs site [stay tuned].
-- SDK [stay tuned].
-
-## Ways to stay in touch
-
-- Make sure to stay tuned by Following DRM3Labs on Github.
-- Follow us on Twitter [here](https://twitter.com/Drm3Labs).
-- Follow us on LinkedIn [here](https://www.linkedin.com/company/drm3-labs).
-- Visit [DRM3](https://drm3.io/), [DRM3 Labs](https://drm3labs.io/), and [DRM3 Network](https://drm3network.io/).
+Programmable access to data and compute
